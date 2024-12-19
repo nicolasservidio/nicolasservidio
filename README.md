@@ -43,8 +43,8 @@ Devote myself ad aeternum to the research and development of cutting-edge comput
 
 ## Contact
 
-LinkedIn: [Nicolás Servidio](https://www.linkedin.com/in/nicolas-servidio-del-monte/)
-Email: [nicolasservidio.dm@gmail.com](mailto:nicolasservidio.dm@gmail.com)
+- LinkedIn: [Nicolás Servidio](https://www.linkedin.com/in/nicolas-servidio-del-monte/) 
+- Email: [nicolasservidio.dm@gmail.com](mailto:nicolasservidio.dm@gmail.com)
 
 <!--
 **nicolasservidio/nicolasservidio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
