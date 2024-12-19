@@ -43,7 +43,7 @@ Devote myself ad aeternum to the research and development of cutting-edge comput
 
 ## Contact
 
-- LinkedIn: [Nicolás Servidio](https://www.linkedin.com/in/nicolas-servidio-del-monte/) 
+- LinkedIn: [Nicolás Servidío](https://www.linkedin.com/in/nicolas-servidio-del-monte/) 
 - Email: [nicolasservidio.dm@gmail.com](mailto:nicolasservidio.dm@gmail.com)
 
 <!--
