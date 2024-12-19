@@ -1,7 +1,5 @@
 # Nicolás Servidio
 
-<br>
-
 ## Introduction
 
 I am an enthusiastic **Computer Systems** student going through last year of college, with a strong passion for computer programming and architecture, web development, data engineering and maths.
