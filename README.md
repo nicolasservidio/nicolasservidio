@@ -5,7 +5,7 @@
 
 I am an enthusiastic **Computer Systems** student going through last year of college, with a strong passion for computer programming and architecture, web development, data engineering and maths.
 
-I also have a background in bioscience, really passionate about molecular biology, genetics and biomedicine. Especially their convergence with tech, that is what brought me here and made a 180 degree turn in my professional vocation.
+I also have a background in bioscience, really passionate about molecular biology, epigenetics and that sort of thing (actually, about anything related to science and data!). Especially regarding its convergence with tech, that is what brought me here and made a 180 degree turn in my professional vocation.
 
 ## Some Skills
 
