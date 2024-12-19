@@ -1,5 +1,6 @@
 # Nicolás Servidio
----
+
+<br>
 
 ## Introduction
 
@@ -32,7 +33,7 @@ I also have a background in bioscience, really passionate about molecular biolog
 
 ## What am I working on at the moment?
 
-Actively engaged in the professional internship project to obtain my bachelor's degree as well as personal projects focused on programming, web development, Content Management Systems and Computer Networks, while I continue my training in applied maths, statistics and tech stacks to direct my future studies towards Data Science and Data Engineering. Further updates coming soon.
+Actively engaged in the professional internship project to obtain my bachelor's degree as well as personal projects focused on programming, web development, Content Management Systems and computer networks, while I continue my training in applied maths, statistics and tech stacks to direct my future studies towards Data Science and Data Engineering. Further updates coming soon.
 
 As part of my professionalization practices, I am collaborating in a team project on the analysis, development and deployment of a comprehensive information system for managing vehicle leasing operations associated with corporate fleets: **Rocket**. Rocket is built using PHP and MySQL, leveraging advanced web technologies. 
 
