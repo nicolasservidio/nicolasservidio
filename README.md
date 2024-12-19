@@ -1,14 +1,13 @@
 # Nicolás Servidio
+---
 
 ## Introduction
----
 
 I am an enthusiastic **Computer Systems** student going through last year of college, with a strong passion for computer programming and architecture, web development, data engineering and maths.
 
 I also have a background in bioscience, really passionate about molecular biology, genetics and biomedicine. Especially their convergence with tech, that is what brought me here and made a 180 degree turn in my professional vocation.
 
 ## Some Skills
----
 
 **Programming Languages:** Java, JS, PHP, C#, SQL, Python, R, Arduino
 
@@ -32,7 +31,6 @@ I also have a background in bioscience, really passionate about molecular biolog
 - Microsoft Active Directory, Windows Server
 
 ## What am I working on at the moment?
----
 
 Actively engaged in the professional internship project to obtain my bachelor's degree as well as personal projects focused on programming, web development, Content Management Systems and Computer Networks, while I continue my training in applied maths, statistics and tech stacks to direct my future studies towards Data Science and Data Engineering. Further updates coming soon.
 
