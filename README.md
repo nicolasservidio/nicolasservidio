@@ -15,19 +15,17 @@ I also have a background in bioscience, really passionate about molecular biolog
 **Some Tools and Tech:**
 
 - .NET & Visual Studio
-- MySQL
-- Microsoft SQL Server
+- MySQL, Microsoft SQL Server
 - Git & GitHub
-- LaTeX, InfoStat, Statistical and mathematical packages
-- SAP PowerDesigner
-- Atlassian Confluence & Jira
-- Bizagi Modeler, Business Process Model and Notation (BPMN)
-- UML, StarUML
+- SAP PowerDesigner for conceptual, logical and physical modeling
+- UML & StarUML for OOAD
 - Android Studio, Eclipse Android Development Tools (ADT)
-- XAMPP
-- phpMyAdmin
-- Figma, WordPress
+- phpMyAdmin, solution stacks for Apache, MySQL, MongoDB, PHP and Perl like XAMPP, WampServer and so on
 - Microsoft Active Directory, Windows Server
+- Bizagi Modeler, Business Process Model and Notation (BPMN), venturing into Tableau and Power BI
+- Atlassian Confluence & Jira. I really enjoy Scrum & Agile methodologies but also UP 
+- Figma, WordPress, builders like Wix
+- LaTeX, InfoStat, Statistical and mathematical packages
 
 ## What am I working on at the moment?
 
