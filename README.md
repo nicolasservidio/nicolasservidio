@@ -37,6 +37,15 @@ As part of my professionalization practices, I am collaborating in a team projec
 
 If you're interested in learning a little more about my work at Rocket, you can check out a short demo [here](https://www.youtube.com/watch?v=l7q7Fa-jCQA&ab_channel=Nicol%C3%A1sServid%C3%ADo). It is in Spanish but you will be able to understand the content perfectly. I can also translate that for you if you wish!
 
+## Future Plans
+
+Devote myself ad aeternum to the research and development of cutting-edge computing technologies, improving my experience in the fields of computer science and systems engineering, software development and data science 👾
+
+## Contact
+
+LinkedIn: [Nicolás Servidio](https://www.linkedin.com/in/nicolas-servidio-del-monte/)
+Email: [nicolasservidio.dm@gmail.com](mailto:nicolasservidio.dm@gmail.com)
+
 <!--
 **nicolasservidio/nicolasservidio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
