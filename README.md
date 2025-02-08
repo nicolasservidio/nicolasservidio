@@ -1,6 +1,6 @@
 ![mybanner](https://github.com/user-attachments/assets/f811b051-9444-4364-a82f-9df5cd2ee5e4)
 
-# Nicolás Servidío
+# Nicolás Servidio
 
 ## Introduction
 
