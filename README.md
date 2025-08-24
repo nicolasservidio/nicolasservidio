@@ -124,10 +124,66 @@ First and foremost, I am deeply passionate about hard work, continuous learning,
 - Project Management, Interdisciplinary Research, Reporting
 - Fundamentals of Accounting and Administration
 
-<h4 style="color:#000000;">📐 Mathematics & Statistics</h4>
+#### 📐 Mathematics & Statistics
 
 - Mathematics for Computer Science, Applied Mathematics
 - Descriptive Statistics, Inferential Statistics, Analytical Skills
+
+---
+
+<br>
+
+## Experience
+
+<br>
+
+### Analyst & Project Manager at _Deep Knowledge Group_ (DKG)
+
+Remote (London, Hong Kong) • 08/2019 – 02/2022
+
+<br>
+
+Worked across multiple subsidiaries including **Deep Knowledge Analytics**, **Aging Analytics Agency**, and **Deep Knowledge Group HQ**. Led and collaborated in data-driven projects in Digital Health, BioTech, Geroscience, MedTech and other areas.
+
+The main activities I was in charge of carrying out were data analysis, business analysis, BI, industry and markets analysis, and R&D Consulting. These activities were focused on high-tech industries in areas such as Digital Health, BioTech, Biomedicine, Geroscience, MedTech, Precision medicine and Pharma, and its intersections with the AI industry, Software & IT, SaaS, FinTech and Finance, as well as other industries.
+
+- Business Intelligence regarding public organisms' policies and programs, international relations and partnerships, for-profit and non-profit companies, consortia, etc.
+- Market analysis focused on disruptive technologies and developments capable of accelerating the health industry.
+- Direction, management and production of analytical reports, interactive infographics, data visualization panels and websites. As a Reporting Analyst, I was responsible for collecting data, analyzing raw information, and creating executive-ready qualitative or quantitative reports, reviews and complete studies based on organizational requirements.
+- Data collection and aggregation, databases curation and interpretation, extraction of insights, and development of static and interactive visualizations for clear, concise presentation of actionable knowledge supporting decision-making processes.
+- Modeling and classification of technologies, research and development activities, products and services, markets, industries, companies, software and other systems, transforming vast amounts of unstructured data into organized, actionable information, enabling more efficient data management, improved decision-making, and enhanced business outcomes.
+- Statistical and rigorous approaches to the development of metrics and indicators.
+- Copywriter, translator, proofreader, designer, and content creator with Website Builder tools like Wix.
+
+**Some involvements at Aging Analytics Agency:**
+
+- **Biomarkers of Longevity: Current state, Challenges and Opportunities Landscape Overview 2019.** <br> A special analytical case study ranking and benchmarking existing panels of biomarkers of ageing, health and Longevity according to their ratios of accuracy vs. actionability, identifying which can have the greatest impact on increasing Healthy Longevity. An in-depth review of the state of the art in biomarkers development. Quoted in numerous foreign media, and formally presented at the “AI for Longevity Summit 2019” conference held at King's College London, November 2019.
+
+- **AgeTech UK IT-Platform.**
+
+- **1000 Longevity Leaders.**
+
+- **Longevity Industry 1.0 - Defining the Biggest and Most Complex Industry in Human History.**
+
+**Some involvements at Deep Knowledge Analytics:**
+
+- **COVID-19 Regional Safety Assessment.** <br> Deep Knowledge Group’s COVID-19 special analytical case study is designed to classify, analyze and rank the economic, social and health stability achieved by 20 regions, as well as their strengths, weaknesses, opportunities, and threats in the battle against the global health and economic crisis triggered by COVID-19.
+
+- **COVID-19 MedTech Analytics.** <br> Deep Knowledge Group's COVID-19 MedTech Analytics IT-Platform is designed to serve as a comprehensive database of the most relevant entities, technologies, and developments in the COVID-19 MedTech ecosystem, aggregating, profiling and visualizing the companies, organizations, scientists and technologies at the forefront of neutralizing the COVID-19 pandemic.
+
+- **UK COVID-19 MedTech Ecosystem.** <br> A component of Deep Knowledge Group's interactive UK COVID-19 MedTech Analytics IT-Platform, which visualizes and categorizes 700+ companies, labs, R&D hubs, universities, investors and funding and support bodies working at the forefront of neutralizing the COVID-19 pandemic.
+
+**Some Strategic Partners of DKG:**
+
+- UK APPG for Longevity
+- United Nations NGO Committee on Ageing
+- Metabesity Conference in Washington D.C.
+- Longevity AI Consortium at King's College London
+- Longevity.Capital
+
+**Skills:**
+
+Business Process Analysis · Business Analysis · Business Intelligence · Data collection and management · Data Analysis · Market Intelligence and Analysis · Data Visualization · Reporting · Project Management · Analytical Skills · Statistics · Bioscience · Interdisciplinary Research · Teamwork · Wix Website Builder · No-code builder · Website designer · Fluent English
 
 ---
 
