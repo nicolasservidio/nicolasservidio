@@ -277,21 +277,112 @@ Participation in a scientific research group project (PGI) accredited by the Gen
 
 Organic Chemistry · Spectroscopy · Chromatography · Biosciences · Data Analysis · Scientific Research · Teamwork
 
+<br>
+
+### Intern as Data Aggregator within the framework of the [ENEEI Project](https://www.argentina.gob.ar/ambiente/biodiversidad/exoticas-invasoras/proyecto) with coordination from the _Universidad Nacional del Sur_ (UNS).
+
+Argentina, Bahía Blanca • 10/2016 – 12/2016
+
+<br>
+
+**Title:** Strengthening Governance for the Protection of Biodiversity through the Formulation and Implementation of the National Strategy on Invasive Alien Species (ENEEI Project)
+
+Participation in an accredited academic project to build a scientific information repository aimed at identifying invasive species.
+
+- Collaboration in the project "Strengthening Governance for the Protection of Biodiversity through the Formulation and Implementation of the National Strategy on Invasive Alien Species (ENEEI Project)", performing data collection and aggregation work.
+
+**The project was accredited, coordinated and executed by:**
+
+- Ministry of Environment and Sustainable Development of the Nation (MAyDS, Argentina).
+- Food and Agriculture Organization (FAO) of the United Nations.
+- Global Environment Facility (GEF).
+
+**Description**
+
+- The project involved a participation with the National Information System on Invasive Alien Species, developed and executed by the Universidad Nacional del Sur (UNS, Argentina), the Instituto Hórus de Desenvolvimento e Conservação Ambiental (Brazil), the United States Geological Survey (USGS) and the program National Biological Information Infrastructure (NBII) led by the Biological Informatics Office of the United States, within the framework of the Invasive Species I3N Network (Invasive Species Information Network for the Americas) project of the IABIN (Inter-American Biodiversity Information Network).
+- My participation consisted of data collection, aggregation and curation tasks mediated by training sessions: acquisition, validation, storage, protection and processing of data on invasive alien species in Argentina to guarantee the accessibility, reliability and accuracy of computer resources for the rational management of invasive species and aimed at researchers, managers of protected natural areas and other specialists from academic institutions, public and private organizations, and non-governmental associations.
+
+**Skills:**
+
+Scientific data collection · Data aggregation · Data curation · Data making and management · Data Visualization · Bioscience · Teamwork.
+
 ---
 
-## What am I working on at the moment?
+<br>
 
-Actively engaged in the professional internship project to obtain my bachelor's degree as well as personal projects focused on programming, web development, Content Management Systems and computer networks, while I continue my training in applied maths, statistics and tech stacks to direct my future studies towards Data Science and Data Engineering. Further updates coming soon.
+## Courses
 
-As part of my professionalization practices, I am collaborating in a team project on the analysis, design, development and deployment of a comprehensive information system for managing vehicle leasing operations associated with corporate fleets: **Rocket**. Rocket is built using PHP and MySQL, leveraging advanced web technologies. 
+<br>
 
-If you're interested in learning a little more about my work at Rocket, you can check out a short demo [here](https://www.youtube.com/watch?v=l7q7Fa-jCQA&ab_channel=Nicol%C3%A1sServid%C3%ADo). It is in Spanish but you will be able to understand the content perfectly. I can also translate that for you if you wish!
+### Robotics and Automation with Arduino at _CFP402_
+
+Bahía Blanca, Argentina • 03/2022 – 05/2022
+
+<br>
+
+Job training instance in Robotics, Automation, Arduino, Microcontrollers.
+
+- Job training course focused on process automation using Arduino microcontrollers, different Arduino kits and circuit boards.
+- Developed hands-on skills in electronics, sensor integration, and control systems for home automation, IoT, and multiple projects of various types using sensors, motors, remote controls, Bluetooth and Wi-Fi, etc.
+- Application of the principles of electronics and programming to put into practice the bases of control systems and process automation, developing skills on instrumentation and process control.
+
+**Key Topics & Projects**
+
+- Basic Arduino and Control Structures
+- Analog/digital inputs, RGB LEDs, LCD displays, Bluetooth modules, Wi-Fi modules.
+- Projects involving the PIR Motion sensor, HC-SR04 ultrasonic sensor, DHT temp and humidity sensors, and LM35.
+- Projects involving the KY-038 and 037 sound sensors.
+- Projects involving the KY-018 photoresistor sensor.
+- Projects involving motion, sound, and temperature sensors (PIR, HC-SR04, DHT, KY series)
+- Projects involving the 4x4 Matrix Keyboards and access with passwords
+- Projects involving the LCD 1602A display module.
+- LED displays: 7-Segment & Dot-Matrix
+- Projects involving contactless modules (IR, RFID), the HC-05 Bluetooth module, and Android Applications
+- Projects involving relay modules, motors, and access control systems
+- Projects involving potentiometers, servo and DC motors.
+- Relay module with optocoupler (electromechanical relay).
+- Rover challenge.
+- Projects involving the KY-023 Joystick module.
+- Applied programming and instrumentation for automated systems
+
+**Skills**
+
+Programming · Arduino · Robotics · Automation · IoT · Home Automation · Microcontroller Programming · Hardware · Electronics · Electronic components · Teamwork
+
+<br>
+
+### Bitcoin and Blockchain: A Technical Introduction (2nd Edition) at _Universidad Tecnológica Nacional Facultad Regional Buenos Aires_ (UTN FRBA)
+
+Buenos Aires, Argentina • 2020
+
+<br>
+
+Programming, Information Systems, Cryptography, Blockchain and Computer Networks.
+
+- 30 hours, Universidad Tecnológica Nacional (UTN) Facultad Regional Buenos Aires (FRBA).
+- A Technical approach to Bitcoin and Blockchain regarding their design, operation, development, evolution and applications.
+
+**Skills**
+
+Programming · Information Systems · Cryptography · Computer Networks · Blockchain · Bitcoin · Finance · FinTech
+
+---
+
+<br>
 
 ## Future Plans
 
-Devote myself ad aeternum to the research and development of cutting-edge computing technologies, improving my experience in the fields of computer science and systems engineering, software development and data science 👾
+<br>
 
-## Contact
+Devote myself ad aeternum to the development (and also research, why not) of cutting-edge computer technologies, improving my experience in the fields of computer science and systems engineering, software development and data science 👾
+
+---
+
+<br>
+
+## Contact me!
+
+<br>
 
 - LinkedIn: [Nicolás Servidío](https://www.linkedin.com/in/nicolas-servidio-del-monte/) 
 - Email: [nicolasservidio.dm@gmail.com](mailto:nicolasservidio.dm@gmail.com)
