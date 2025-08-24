@@ -133,7 +133,7 @@ First and foremost, I am deeply passionate about hard work, continuous learning,
 
 <br>
 
-## Education
+## 🎓 Education
 
 <br>
 
@@ -195,7 +195,7 @@ Biotechnology · Genetics · Molecular Biology · Interdisciplinary Research · 
 
 <br>
 
-## Experience
+## 👩🏻‍💻 Experience
 
 <br>
 
@@ -310,7 +310,7 @@ Scientific data collection · Data aggregation · Data curation · Data making a
 
 <br>
 
-## Courses
+## 📚 Courses
 
 <br>
 
@@ -370,17 +370,17 @@ Programming · Information Systems · Cryptography · Computer Networks · Block
 
 <br>
 
-## Future Plans
+## 🎯 Future Plans
 
 <br>
 
-Devote myself ad aeternum to the development (and also research, why not) of cutting-edge computer technologies, improving my experience in the fields of computer science and systems engineering, software development and data science 👾
+Devote myself ad aeternum to the development (and also research, why not!) of cutting-edge computer technologies, improving my experience in the fields of computer science and systems engineering, software development and data science 👾
 
 ---
 
 <br>
 
-## Contact me!
+## 📩 Contact me!
 
 <br>
 
