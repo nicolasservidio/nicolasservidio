@@ -45,7 +45,7 @@ First and foremost, I am deeply passionate about hard work, continuous learning,
 - Database Management Systems (DBMSs), phpMyAdmin, LAMP stack, XAMPP, Apache web servers
 - SAP PowerDesigner (conceptual, logical, physical modeling)
 
-### 🧰 Summary of Tools & Platforms
+### 🛠️ Summary of Tools & Platforms
 
 - Microsoft .NET ecosystem, ASP.NET, Visual Studio
 - Code editors, IDEs (e.g., VS Code, Eclipse)
