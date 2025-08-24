@@ -377,6 +377,10 @@ Programming · Information Systems · Cryptography · Computer Networks · Block
 
 Devote myself ad aeternum to the development (and also research, why not!) of cutting-edge computer technologies, improving my experience in the fields of computer science and systems engineering, software development and data science 👾
 
+![tothecomputer](https://github.com/user-attachments/assets/41dcec2b-1a87-47dd-9967-7b6949166aa0)
+
+<br>
+
 ---
 
 <br>
