@@ -20,7 +20,7 @@ First and foremost, I am deeply passionate about hard work, continuous learning,
 
 <br>
 
-## Main Skills & Technologies
+## 🧰 Main Skills & Technologies
 
 <br>
 
