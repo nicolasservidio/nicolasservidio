@@ -26,108 +26,108 @@ First and foremost, I am deeply passionate about hard work, continuous learning,
 
 ### 🗣️ Languages
 
-• English - Professional working proficiency
-• Spanish - Native, bilingual proficiency
+- English - Professional working proficiency
+- Spanish - Native, bilingual proficiency
 
 ### 💻 Programming Languages
 
-• Primary: PHP, Java, C#(.NET), ASP.NET, Python, JavaScript, SQL, XML
-• Secondary: R, Arduino
+- Primary: PHP, Java, C#(.NET), ASP.NET, Python, JavaScript, SQL, XML
+- Secondary: R, Arduino
 
 ### 🌐 Web Development
 
-• HTML, CSS, CSS Flexbox, Bootstrap (Framework), JavaScript
-• Responsive Design, UI/UX Prototyping (e.g., Figma)
+- HTML, CSS, CSS Flexbox, Bootstrap (Framework), JavaScript
+- Responsive Design, UI/UX Prototyping (e.g., Figma)
 
 ### 🗄️ Databases & Data Technologies
 
-• SQL, MySQL, Microsoft SQL Server, SQL Server Management Studio
-• Database Management Systems (DBMSs), phpMyAdmin, LAMP stack, XAMPP, Apache web servers
-• SAP PowerDesigner (conceptual, logical, physical modeling)
+- SQL, MySQL, Microsoft SQL Server, SQL Server Management Studio
+- Database Management Systems (DBMSs), phpMyAdmin, LAMP stack, XAMPP, Apache web servers
+- SAP PowerDesigner (conceptual, logical, physical modeling)
 
 ### 🧰 Summary of Tools & Platforms
 
-• Microsoft .NET ecosystem, ASP.NET, Visual Studio
-• Code editors, IDEs (e.g., VS Code, Eclipse)
-• Android Studio, Eclipse Android Development Tools ADT — Android Development
-• Git, GitHub
-• Figma — UI Prototyping, Software Prototyping
-• UML (Unified Modeling Language), StarUML, Modelio — Object-oriented Analysis and Design (OOAD) of Information Systems, Requirements engineering, Software engineering, Model-driven Architecture (MDA)
-• Bizagi Modeler — Business Process Model and Notation (BPMN), Business Analysis, Business Process Analysis (BPA), Business Modeling
-• Atlassian Confluence & Jira — Software documentation and project management, Traditional Methodologies, Agile Methodologies, Scrum, Unified Software Development Process (Unified Process), Software Development Lifecycle (SDLC)
-• Obsidian MD — Local documentation and actionable knowledge management
-• Zephyr — Software Quality Assurance (SQA), Application Testing with a focus on Functional Testing
-• SAP PowerDesigner — Conceptual, logical, physical modeling of databases
-• LAMP solution stacks (Linux, Apache, MySQL, PHP, Python, Perl), XAMPP, WampServer
-• Windows Server, Microsoft Active Directory, GNU/Linux
-• LaTeX, InfoStat, Statistical and mathematical packages
-• Excel & advanced spreadsheets, office suites
+- Microsoft .NET ecosystem, ASP.NET, Visual Studio
+- Code editors, IDEs (e.g., VS Code, Eclipse)
+- Android Studio, Eclipse Android Development Tools ADT — Android Development
+- Git, GitHub
+- Figma — UI Prototyping, Software Prototyping
+- UML (Unified Modeling Language), StarUML, Modelio — Object-oriented Analysis and Design (OOAD) of Information Systems, Requirements engineering, Software engineering, Model-driven Architecture (MDA)
+- Bizagi Modeler — Business Process Model and Notation (BPMN), Business Analysis, Business Process Analysis (BPA), Business Modeling
+- Atlassian Confluence & Jira — Software documentation and project management, Traditional Methodologies, Agile Methodologies, Scrum, Unified Software Development Process (Unified Process), Software Development Lifecycle (SDLC)
+- Obsidian MD — Local documentation and actionable knowledge management
+- Zephyr — Software Quality Assurance (SQA), Application Testing with a focus on Functional Testing
+- SAP PowerDesigner — Conceptual, logical, physical modeling of databases
+- LAMP solution stacks (Linux, Apache, MySQL, PHP, Python, Perl), XAMPP, WampServer
+- Windows Server, Microsoft Active Directory, GNU/Linux
+- LaTeX, InfoStat, Statistical and mathematical packages
+- Excel & advanced spreadsheets, office suites
 
 ### 🧠 Industry Knowledge
 
 #### 💻 Software Development & Architecture
 
-• Full-Stack Development, Software Development, Web Development
-• Information Systems Analysis, Design, Implementation & Deployment
-• Data Structures and Algorithms
-• Software Architecture, Multitier Architecture, Model–view–controller (MVC) Architecture
-• Software Design Patterns, Programming Techniques, Programming Laboratory
-• Component-Based Programming, Component-Based software engineering, Procedural programming, Object-Oriented Programming (OOP)
-• Software Engineering Practices, Systems Engineering, Software Systems Engineering
-• Software Prototyping, UI/UX Design, User Interface Prototyping, UI Development, Responsive Web Design
-• Android Development
-• Business Information Systems, Management Information Systems
+- Full-Stack Development, Software Development, Web Development
+- Information Systems Analysis, Design, Implementation & Deployment
+- Data Structures and Algorithms
+- Software Architecture, Multitier Architecture, Model–view–controller (MVC) Architecture
+- Software Design Patterns, Programming Techniques, Programming Laboratory
+- Component-Based Programming, Component-Based software engineering, Procedural programming, Object-Oriented Programming (OOP)
+- Software Engineering Practices, Systems Engineering, Software Systems Engineering
+- Software Prototyping, UI/UX Design, User Interface Prototyping, UI Development, Responsive Web Design
+- Android Development
+- Business Information Systems, Management Information Systems
 
 #### 🧪 Software Engineering Methodologies
 
-• Traditional Methodologies for software development, Agile Methodologies, Scrum, Jira
-• Unified Software Development Process (Unified Process), Software Development Lifecycle (SDLC)
-• Functional Analysis, Object-oriented Analysis and Design (OOAD), Requirements Engineering
-• UML (Unified Modeling Language), StarUML
-• Software Documentation, Confluence, Software Modeling and Design
-• Source Code Management, Version Control, Git, GitHub
-• Model-Driven Architecture (MDA), Model Driven Development, Model Driven Engineering, Modelio (Modelio Open Source)
+- Traditional Methodologies for software development, Agile Methodologies, Scrum, Jira
+- Unified Software Development Process (Unified Process), Software Development Lifecycle (SDLC)
+- Functional Analysis, Object-oriented Analysis and Design (OOAD), Requirements Engineering
+- UML (Unified Modeling Language), StarUML
+- Software Documentation, Confluence, Software Modeling and Design
+- Source Code Management, Version Control, Git, GitHub
+- Model-Driven Architecture (MDA), Model Driven Development, Model Driven Engineering, Modelio (Modelio Open Source)
 
 #### 🗄️ Database & Data Systems
 
-• Database Modeling, Database Design, Database Development, Database Management
-• Logical Data Models, Conceptual Data Models, Physical Data Models, SAP PowerDesigner
-• Relational models, SQL, DBMSs (Database management systems)
+- Database Modeling, Database Design, Database Development, Database Management
+- Logical Data Models, Conceptual Data Models, Physical Data Models, SAP PowerDesigner
+- Relational models, SQL, DBMSs (Database management systems)
 
 #### 🧪 Testing & Quality Assurance
 
-• Software Testing, Application Testing, Software Quality Assurance (SQA)
-• Functional Testing, Non-functional Testing, Manual Testing
-• White-box testing, Black-box testing
-• Unit Testing, Integration Testing, System Testing, Acceptance Testing
-• Behavior-Driven Development (BDD), Gherkin, Zephyr
-• DevOps, CI/CD (Continuous Integration & Continuous Delivery)
+- Software Testing, Application Testing, Software Quality Assurance (SQA)
+- Functional Testing, Non-functional Testing, Manual Testing
+- White-box testing, Black-box testing
+- Unit Testing, Integration Testing, System Testing, Acceptance Testing
+- Behavior-Driven Development (BDD), Gherkin, Zephyr
+- DevOps, CI/CD (Continuous Integration & Continuous Delivery)
 
 #### 🧬 Computer Systems & Infrastructure
 
-• Computer Architecture, Hardware, Electronic components
-• Operating Systems, Kernels, Virtualization
-• Windows Server, Microsoft Active Directory
-• GNU/Linux, Linux system administration (Linux skills equivalent to LPIC-1 level)
-• Windows Shell Scripting, Bash Scripting
-• Arduino, IoT, Automation, Home automation, Microcontrollers (Basics)
-• Computer Networks, Network Protocols, Network Configurations, Network Communications
-• OSI (Open Systems Interconnection) model, TCP/IP (Transmission Control Protocol/Internet Protocol) model
-• Web hosting
+- Computer Architecture, Hardware, Electronic components
+- Operating Systems, Kernels, Virtualization
+- Windows Server, Microsoft Active Directory
+- GNU/Linux, Linux system administration (Linux skills equivalent to LPIC-1 level)
+- Windows Shell Scripting, Bash Scripting
+- Arduino, IoT, Automation, Home automation, Microcontrollers (Basics)
+- Computer Networks, Network Protocols, Network Configurations, Network Communications
+- OSI (Open Systems Interconnection) model, TCP/IP (Transmission Control Protocol/Internet Protocol) model
+- Web hosting
 
 #### 📊 Data, Business & Organizational Analysis
 
-• Systems Analysis, Business Analysis, Business Modeling
-• Business Process Model and Notation (BPMN), Business Process Analysis (BPA), Business Intelligence (BI), Bizagi Modeler
-• Data Analysis, Data Analytics, Data Visualization
-• Organizational Systems, Enterprise Architecture, Organization Modeling, Market Analysis
-• Project Management, Interdisciplinary Research, Reporting
-• Fundamentals of Accounting and Administration
+- Systems Analysis, Business Analysis, Business Modeling
+- Business Process Model and Notation (BPMN), Business Process Analysis (BPA), Business Intelligence (BI), Bizagi Modeler
+- Data Analysis, Data Analytics, Data Visualization
+- Organizational Systems, Enterprise Architecture, Organization Modeling, Market Analysis
+- Project Management, Interdisciplinary Research, Reporting
+- Fundamentals of Accounting and Administration
 
-#### 📐 Mathematics & Statistics
+<h4 style="color:blue;">📐 Mathematics & Statistics</h4>
 
-• Mathematics for Computer Science, Applied Mathematics
-• Descriptive Statistics, Inferential Statistics, Analytical Skills
+- Mathematics for Computer Science, Applied Mathematics
+- Descriptive Statistics, Inferential Statistics, Analytical Skills
 
 ---
 
