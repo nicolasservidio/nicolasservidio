@@ -124,7 +124,7 @@ First and foremost, I am deeply passionate about hard work, continuous learning,
 - Project Management, Interdisciplinary Research, Reporting
 - Fundamentals of Accounting and Administration
 
-<h4 style="color:blue;">📐 Mathematics & Statistics</h4>
+<h4 style="color:#000000;">📐 Mathematics & Statistics</h4>
 
 - Mathematics for Computer Science, Applied Mathematics
 - Descriptive Statistics, Inferential Statistics, Analytical Skills
