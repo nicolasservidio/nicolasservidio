@@ -143,9 +143,9 @@ Argentina, Córdoba • 08/2022 – 12/2025
 
 <br>
 
-Computer systems, Informatics, Full-Stack Development, Business systems & Functional Analysis.
-Grade: Higher Technician. 
-In progress (4 exams to finish) - Average grade: 9,70
+Computer systems, Informatics, Full-Stack Development, Business systems & Functional Analysis. <br>
+Grade: Higher Technician.  <br>
+In progress (4 exams to finish) - Average grade: 9,70 
 
 - 3-year Advanced Technician degree (similar as Bachelor's degree abroad) in Full-Stack Development, Computer Systems Analysis, Computer Systems Design, Computer Systems Development, Computer Systems Deployment, Computer Systems Testing, IT, Business Systems, Functional Analysis (4 exams to finish).
 
@@ -161,9 +161,9 @@ Argentina, Córdoba • 08/2022 – 08/2024
 
 <br>
 
-Computer systems, Informatics, Full-Stack Development, Business systems & Functional Analysis.
-Grade: Intermediate Level (“Certificación Intermedia”).
-Finished (2-years or 20 exams) – Final average grade: 9,75
+Computer systems, Informatics, Full-Stack Development, Business systems & Functional Analysis. <br>
+Grade: Intermediate Level (“Certificación Intermedia”). <br>
+Finished (2-years or 20 exams) – Final average grade: 9,75 
 
 - 2-year Intermediate Certification title in Full-Stack Development, Computer Systems Analysis, Computer Systems Design, Computer Systems Development, Computer Systems Deployment, Computer Systems Testing, IT, Business Systems, Functional Analysis.
 
@@ -179,8 +179,8 @@ Argentina, Bahía Blanca
 
 <br>
 
-Life Sciences, Molecular Biology, Cell Biology, Genetics, Chemistry, Physics, Advanced Mathematics.
-Grade: Bachelor's degree (“Licenciatura”).
+Life Sciences, Molecular Biology, Cell Biology, Genetics, Chemistry, Physics, Advanced Mathematics. <br>
+Grade: Bachelor's degree (“Licenciatura”). <br>
 Not completed (up to 4th year)
 
 - Related activities: I was involved in diverse projects both at a volunteer level, academic lab training, and professional experiences in private companies. In the private sector I worked in data and business analysis, assessing and consulting on scientific and high-tech R&D with emphasis in biomed, health tech and geroscience.
@@ -300,6 +300,7 @@ Participation in an accredited academic project to build a scientific informatio
 **Description**
 
 - The project involved a participation with the National Information System on Invasive Alien Species, developed and executed by the Universidad Nacional del Sur (UNS, Argentina), the Instituto Hórus de Desenvolvimento e Conservação Ambiental (Brazil), the United States Geological Survey (USGS) and the program National Biological Information Infrastructure (NBII) led by the Biological Informatics Office of the United States, within the framework of the Invasive Species I3N Network (Invasive Species Information Network for the Americas) project of the IABIN (Inter-American Biodiversity Information Network).
+
 - My participation consisted of data collection, aggregation and curation tasks mediated by training sessions: acquisition, validation, storage, protection and processing of data on invasive alien species in Argentina to guarantee the accessibility, reliability and accuracy of computer resources for the rational management of invasive species and aimed at researchers, managers of protected natural areas and other specialists from academic institutions, public and private organizations, and non-governmental associations.
 
 **Skills:**
