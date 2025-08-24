@@ -133,6 +133,68 @@ First and foremost, I am deeply passionate about hard work, continuous learning,
 
 <br>
 
+## Education
+
+<br>
+
+### Higher Technician in Computer Systems Analysis at _Instituto Superior Santo Domingo_ (ISSD)
+
+Argentina, Córdoba • 08/2022 – 12/2025
+
+<br>
+
+Computer systems, Informatics, Full-Stack Development, Business systems & Functional Analysis.
+Grade: Higher Technician. 
+In progress (4 exams to finish) - Average grade: 9,70
+
+- 3-year Advanced Technician degree (similar as Bachelor's degree abroad) in Full-Stack Development, Computer Systems Analysis, Computer Systems Design, Computer Systems Development, Computer Systems Deployment, Computer Systems Testing, IT, Business Systems, Functional Analysis (4 exams to finish).
+
+**Skills:**
+
+For a complete overview of the main skills, tools, technologies and methodologies used, and the areas covered in the academic program, see the section "Main Skills & Technologies”.
+
+<br>
+
+### Programmer Analyst at _Instituto Superior Santo Domingo_ (ISSD)
+
+Argentina, Córdoba • 08/2022 – 08/2024
+
+<br>
+
+Computer systems, Informatics, Full-Stack Development, Business systems & Functional Analysis.
+Grade: Intermediate Level (“Certificación Intermedia”).
+Finished (2-years or 20 exams) – Final average grade: 9,75
+
+- 2-year Intermediate Certification title in Full-Stack Development, Computer Systems Analysis, Computer Systems Design, Computer Systems Development, Computer Systems Deployment, Computer Systems Testing, IT, Business Systems, Functional Analysis.
+
+**Skills:**
+
+For a complete overview of the main skills, tools, technologies and methodologies used, and the areas covered in the academic program, see the section "Main Skills & Technologies”.
+
+<br>
+
+### Biological Sciences at _Universidad Nacional del Sur_ (UNS)
+
+Argentina, Bahía Blanca
+
+<br>
+
+Life Sciences, Molecular Biology, Cell Biology, Genetics, Chemistry, Physics, Advanced Mathematics.
+Grade: Bachelor's degree (“Licenciatura”).
+Not completed (up to 4th year)
+
+- Related activities: I was involved in diverse projects both at a volunteer level, academic lab training, and professional experiences in private companies. In the private sector I worked in data and business analysis, assessing and consulting on scientific and high-tech R&D with emphasis in biomed, health tech and geroscience.
+
+- For many years my background and training were mostly related to the field of Life Sciences, but I have been completely focused on Computer Systems since 2022. Nevertheless, the rigorous analytical and methodological training I developed through my science studies directly supported my transition into and advancement within the fields of computational systems and software development.
+
+**Skills:**
+
+Biotechnology · Genetics · Molecular Biology · Interdisciplinary Research · Laboratory assistant · Physics · Chemistry · Physical Chemistry · Mathematics · Statistics · Analytical Skills · Data making and management · Data Visualization · Scientific English · Teamwork
+
+---
+
+<br>
+
 ## Experience
 
 <br>
@@ -184,6 +246,36 @@ The main activities I was in charge of carrying out were data analysis, business
 **Skills:**
 
 Business Process Analysis · Business Analysis · Business Intelligence · Data collection and management · Data Analysis · Market Intelligence and Analysis · Data Visualization · Reporting · Project Management · Analytical Skills · Statistics · Bioscience · Interdisciplinary Research · Teamwork · Wix Website Builder · No-code builder · Website designer · Fluent English
+
+<br>
+
+### Research student in a PGI delivered by the General Secretariat of Science and Technology ("Secretaría General de Ciencia y Tecnología") at _Universidad Nacional del Sur_ (UNS)
+
+Argentina, Bahía Blanca • 03/2018 – 12/2018
+
+<br>
+
+**Title:** Nanocatalysis and Organic Synthesis; Methodologies and Products of Interest in Fine and Medicinal Chemistry
+
+Participation in a scientific research group project (PGI) accredited by the General Secretariat of Science and Technology ("Secretaría General de Ciencia y Tecnología", SGCyT - Universidad Nacional del Sur) and focused on synthesizing phosphorus compounds derived from β-D-galactofuranose. Conducted lab work in organic chemistry, nanocatalysis, and bioactive compound development.
+
+- Synthesis of phosphorous compounds derived from β-D-galactofuranose, within the framework of the Research Group Project (PGI) "Nanocatalysis and Organic Synthesis; Methodologies and Products of Interest in Fine and Medicinal Chemistry (PGI 24/Q072)".
+- Research tasks carried out in an Organic Chemistry Laboratory belonging to INQUISUR (CONICET).
+- Scientific training and research in the field of organometallic chemistry linked to the modification of biomolecules promoted by metal nanocatalysts.
+- Line of research oriented to the chemistry of carbohydrates aimed at obtaining novel bioactive compounds, particularly involved in the inhibition of the enzyme β-galactofuranosidase and its potential use as antituberculous drugs.
+- Chemical synthesis tasks of galactofuranose, derived glycosides mediating O-glycosidation reactions, derived alkynylphosphonates, and respective tasks of optimization of the synthesis processes.
+- Acquired a vast experience in various laboratory techniques such as the synthesis of starting materials using procedures reported in the literature; synthesis of phosphorus compounds derived from β-D-galactofuranose promoted by supported metal nanocatalysts.
+- Purification of substrates and products through the use of column chromatography and preparative chromatography; analysis of the products obtained using different analytical and spectroscopic techniques such as gas chromatography coupled to a mass detector, proton and carbon nuclear magnetic resonance, infrared, among others.
+
+**Key Contributions**
+
+- Synthesized glycosides and alkynylphosphonates using O-glycosidation reactions.
+- Applied advanced purification techniques (column chromatography, GC-MS, NMR).
+- Investigated compounds for potential antituberculous drug development.
+
+**Skills:**
+
+Organic Chemistry · Spectroscopy · Chromatography · Biosciences · Data Analysis · Scientific Research · Teamwork
 
 ---
 
