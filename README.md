@@ -36,6 +36,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nicolasservidio&label=Profile%20views&color=00ffe7&style=for-the-badge)
 
+![Nicolas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolasservidio&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
+
 # Nicolás Servidio
 
 ## Introduction
