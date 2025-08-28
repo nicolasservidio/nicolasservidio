@@ -2,24 +2,11 @@
 
 ![Preview](./preview.svg)
 
-
-
-
-<!-- Saludo inicial -->
-
-<div style="background: linear-gradient(90deg, #00f5d4, #7b2cbf, #3a0ca3); padding: 20px; border-radius: 10px;">
-
-  <h2 style="font-family: Courier, monospace; color: #00ffe7;">
-    👾 Hello there, my name is <strong style="color:#00ffe7;">Nicolás</strong>
-  </h2>
-
-  <p style="font-family: Courier, monospace; color: #00ffe7;">
-    I build modular & scalable systems designed for operational adaptability & long-term maintainability.
-  </p>
-  
-  <img src="https://komarev.com/ghpvc/?username=nicolasservidio&label=Profile%20views&color=00ffe7&style=for-the-badge" />
-  <img src="https://img.shields.io/github/commit-activity/y/nicolasservidio/Rocket?style=for-the-badge&color=00ffe7" />
-  <img src="https://img.shields.io/github/last-commit/nicolasservidio/Rocket?style=for-the-badge&color=00ffe7" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nicolasservidio&label=Profile%20views&color=e64105&style=for-the-badge" />
+  <img src="https://img.shields.io/github/commit-activity/y/f-mota/Rocket?style=for-the-badge&color=e64105" />
+  <img src="https://img.shields.io/github/last-commit/f-mota/Rocket?style=for-the-badge&color=e64105" />
+  <img src="https://img.shields.io/badge/Languages-Multi--Stack-orange?style=for-the-badge&color=e64105" />
 </div>
 
 
