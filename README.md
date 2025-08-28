@@ -62,6 +62,17 @@
   </a>
 </div>
 
+<!-- Encabezado animado con CSS -->
+
+<!-- Badges globales -->
+![Profile Views](https://komarev.com/ghpvc/?username=NicolasServidio&label=Profile%20views&color=00ffe7&style=for-the-badge)
+
+![Nicolas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicolasServidio&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasServidio&layout=compact&theme=tokyonight&hide_border=true)
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=NicolasServidio&theme=onestar&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 # Nicolás Servidio
 
