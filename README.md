@@ -1,5 +1,8 @@
 ![mybanner](https://github.com/user-attachments/assets/f811b051-9444-4364-a82f-9df5cd2ee5e4)
 
+[![Visit my GitHub Landing Page](https://img.shields.io/badge/Launch--Site-00ffe7?style=for-the-badge&logo=github&logoColor=black)](https://nicolasservidio.github.io/)
+
+
 <!-- Saludo inicial -->
 
 <div style="background: linear-gradient(90deg, #00f5d4, #7b2cbf, #3a0ca3); padding: 20px; border-radius: 10px;">
@@ -25,19 +28,20 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
+<br>
 
 ### 🧱 Backend & Arquitectura  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 
----
+<br>
 
 ### 🗄️ Bases de Datos  
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
@@ -46,14 +50,14 @@
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=php&logoColor=white)
 ![SAP PowerDesigner](https://img.shields.io/badge/SAP_PowerDesigner-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
----
+<br>
 
 ### 🧪 Testing & QA  
 ![Zephyr](https://img.shields.io/badge/Zephyr-0099CC?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
 ![Gherkin](https://img.shields.io/badge/Gherkin-5CDB95?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white)
 
----
+<br>
 
 ### 🖥️ Sistemas & Infraestructura  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -62,7 +66,7 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
----
+<br>
 
 ### 🧰 Otras Tecnologías y Entornos  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
