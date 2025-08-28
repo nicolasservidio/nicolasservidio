@@ -116,11 +116,15 @@
   </a>
 </div>
 
-# Nicolás Servidio
+<br><br>
 
-## Introduction
+---
 
-Software Developer with a strong foundation in full-stack web development, software engineering, and Agile practices. Final-semester Computer Systems student passionate about building scalable, user-focused applications using PHP, Java, and the Microsoft .NET ecosystem. I combine technical expertise with analytical rigor and a commitment to continuous learning, driven by the intersection of technology and problem-solving.
+<br>
+
+## Who am I
+
+I am a software Developer with a strong foundation in full-stack web development, software engineering, and Agile practices. Final-semester Computer Systems student passionate about building scalable, user-focused applications using PHP, Java, and the Microsoft .NET ecosystem. I combine technical expertise with analytical rigor and a commitment to continuous learning, driven by the intersection of technology and problem-solving.
 
 My expertise spans analysis, design, and development of computer and information systems, combining strategic thinking with technical execution. I am proficient in PHP, Java, C#, Python, other programming languages and modern web technologies - with a growing focus in backend engineering and robust application development using PHP, Java, and the Microsoft .NET ecosystem.
 
