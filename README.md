@@ -73,8 +73,8 @@
 #### GitHub Stats
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolasservidio&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&line_height=23" width="430" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasservidio&theme=react&hide_title=true&layout=compact&langs_count=6&hide_progress=false&card_width=430&hide=C+" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nicolasservidio&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&line_height=23" width="410" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasservidio&theme=react&hide_title=true&layout=compact&langs_count=6&hide_progress=false&card_width=410&hide=C+" />
 </div>
 
 # Nicolás Servidio
