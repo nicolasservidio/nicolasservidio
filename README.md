@@ -38,6 +38,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasservidio&layout=compact&theme=tokyonight&hide_border=true&hide=C+)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasservidio&layout=compact&theme=midnight-purple&hide_border=true&hide=C+)
+
+![Nicolás's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolasservidio&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
+
 # Nicolás Servidio
 
 ## Introduction
