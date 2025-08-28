@@ -17,8 +17,6 @@
   <img src="https://img.shields.io/github/last-commit/nicolasservidio/Rocket?style=for-the-badge&color=00ffe7" />
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=nicolasservidio&label=Profile%20views&color=00ffe7&style=for-the-badge)
-
 <!-- Tarjetas -->
 
 ### GitHub Stats
