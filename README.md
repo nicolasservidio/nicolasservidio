@@ -1,5 +1,39 @@
 ![mybanner](https://github.com/user-attachments/assets/f811b051-9444-4364-a82f-9df5cd2ee5e4)
 
+<div align="center">
+
+  <style>
+    .cyberpunk-text {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 1.5rem;
+      font-weight: bold;
+      color: #00ffe7;
+      text-shadow: 0 0 5px #00ffe7, 0 0 10px #00ffe7, 0 0 20px #00ffe7;
+      animation: flicker 2s infinite;
+    }
+
+    @keyframes flicker {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.6; }
+    }
+
+    .badge-row {
+      margin-top: 1rem;
+    }
+  </style>
+
+  <div class="cyberpunk-text">
+    👾 Hello there, my name is Nicolás
+  </div>
+
+  <div class="badge-row">
+    <img src="https://komarev.com/ghpvc/?username=NicolasServidio&label=Profile%20views&color=00ffe7&style=for-the-badge" />
+    <img src="https://img.shields.io/github/commit-activity/y/NicolasServidio/NOMBRE_DEL_REPOSITORIO?style=for-the-badge&color=00ffe7" />
+    <img src="https://img.shields.io/github/last-commit/NicolasServidio/NOMBRE_DEL_REPOSITORIO?style=for-the-badge&color=00ffe7" />
+  </div>
+
+</div>
+
 # Nicolás Servidio
 
 ## Introduction
