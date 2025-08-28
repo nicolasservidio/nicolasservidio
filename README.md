@@ -36,29 +36,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nicolasservidio&label=Profile%20views&color=00ffe7&style=for-the-badge)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasservidio&layout=compact&theme=tokyonight&hide_border=true&hide=C+)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasservidio&layout=compact&theme=midnight-purple&hide_border=true&hide=C+)
-
-![Nicolás's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolasservidio&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
-
-![Nicolás's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolasservidio&show_icons=true&theme=radical&hide_border=true&hide_title=true)
-
-![Nicolás's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolasservidio&show_icons=true&theme=vision-friendly-dark&hide_border=true&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasservidio&layout=compact&theme=radical&hide_border=true&hide=C+)
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nicolasservidio&show_icons=true&theme=dark&hide_border=true&hide_title=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasservidio&layout=compact&theme=dark&hide_border=true&hide=C+" />
-    </td>
-  </tr>
-</table>
-
 ### GitHub Stats
 
 <div style="display: flex; justify-content: center; gap: 10px;">
