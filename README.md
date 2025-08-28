@@ -1,40 +1,25 @@
 ![mybanner](https://github.com/user-attachments/assets/f811b051-9444-4364-a82f-9df5cd2ee5e4)
 
-<div align="center">
+<!-- Saludo inicial -->
 
-  <style>
-    .cyberpunk-text {
-      font-family: 'Courier New', Courier, monospace;
-      font-size: 1.5rem;
-      font-weight: bold;
-      color: #00ffe7;
-      text-shadow: 0 0 5px #00ffe7, 0 0 10px #00ffe7, 0 0 20px #00ffe7;
-      animation: flicker 2s infinite;
-    }
+<div style="background: linear-gradient(90deg, #00f5d4, #7b2cbf, #3a0ca3); padding: 20px; border-radius: 10px;">
 
-    @keyframes flicker {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0.6; }
-    }
+  <h2 style="font-family: Courier, monospace; color: #00ffe7;">
+    👾 Hello there, my name is <strong style="color:#00ffe7;">Nicolás</strong>
+  </h2>
 
-    .badge-row {
-      margin-top: 1rem;
-    }
-  </style>
-
-  <div class="cyberpunk-text">
-    👾 Hello there, my name is Nicolás
-  </div>
-
-  <div class="badge-row">    
-    <img src="https://komarev.com/ghpvc/?username=nicolasservidio&label=Profile%20views&color=00ffe7&style=for-the-badge" />
-    <img src="https://img.shields.io/github/commit-activity/y/nicolasservidio/Rocket?style=for-the-badge&color=00ffe7" />
-    <img src="https://img.shields.io/github/last-commit/NicolasServidio/NOMBRE_DEL_REPOSITORIO?style=for-the-badge&color=00ffe7" />
-  </div>
-
+  <p style="font-family: Courier, monospace; color: #00ffe7;">
+    I build modular & scalable systems designed for operational adaptability & long-term maintainability.
+  </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=nicolasservidio&label=Profile%20views&color=00ffe7&style=for-the-badge" />
+  <img src="https://img.shields.io/github/commit-activity/y/nicolasservidio/Rocket?style=for-the-badge&color=00ffe7" />
+  <img src="https://img.shields.io/github/last-commit/nicolasservidio/Rocket?style=for-the-badge&color=00ffe7" />
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nicolasservidio&label=Profile%20views&color=00ffe7&style=for-the-badge)
+
+<!-- Tarjetas -->
 
 ### GitHub Stats
 
@@ -61,18 +46,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasservidio&repo=Book_Management_System-ASP.NET&theme=react" />
   </a>
 </div>
-
-<!-- Encabezado animado con CSS -->
-
-<!-- Badges globales -->
-![Profile Views](https://komarev.com/ghpvc/?username=NicolasServidio&label=Profile%20views&color=00ffe7&style=for-the-badge)
-
-![Nicolas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicolasServidio&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasServidio&layout=compact&theme=tokyonight&hide_border=true)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=NicolasServidio&theme=onestar&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 # Nicolás Servidio
 
