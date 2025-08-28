@@ -9,6 +9,8 @@
 
 ![Preview](./preview.svg)
 
+<br><br>
+
 <div align="center">
   <h2 style="color: white; font-weight: 100; margin-top: 80px;">🌐 Web Development</h2>
   <div class="badge-group">
@@ -18,7 +20,9 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  </div>
+  </div> 
+  
+  <br>
   <h2 style="color: white; font-weight: 100; margin-top: 50px;">🧱 Backend & Architecture</h2>
   <div class="badge-group">
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
@@ -28,6 +32,8 @@
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
   </div>
+  
+  <br>
   <h2 style="color: white; font-weight: 100; margin-top: 50px;">🗄️ Databases</h2>
   <div class="badge-group">
     <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
@@ -37,6 +43,8 @@
     <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=php&logoColor=white" alt="phpMyAdmin">
     <img src="https://img.shields.io/badge/SAP_PowerDesigner-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP PowerDesigner">
   </div>
+  <br>
+  
   <h2 style="color: white; font-weight: 100; margin-top: 50px;">🖥️ Systems & Infrastructure</h2>
   <div class="badge-group">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
@@ -47,6 +55,8 @@
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
   </div>
+  <br>
+
   <h2 style="color: white; font-weight: 100; margin-top: 50px;">🧰 Other Technologies & Tools</h2>
   <div class="badge-group">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
