@@ -1,5 +1,7 @@
 ![mybanner](https://github.com/user-attachments/assets/f811b051-9444-4364-a82f-9df5cd2ee5e4)
 
+<br>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nicolasservidio&label=Profile%20views&color=e64105&style=for-the-badge" />
   <img src="https://img.shields.io/github/commit-activity/y/f-mota/Rocket?style=for-the-badge&color=e64105" />
@@ -7,12 +9,16 @@
   <img src="https://img.shields.io/badge/Languages-Multi--Stack-orange?style=for-the-badge&color=e64105" />
 </div>
 
+<br><br>
+
 ![Preview](./preview.svg)
 
 <br><br>
 
+<!-- Badges -->
+
 <div align="center">
-  <h2 style="color: white; font-weight: 100; margin-top: 80px;">🌐 Web Development</h2>
+  <h3 style="color: white; font-weight: 100; margin-top: 80px;">🌐 Web Development</h3>
   <div class="badge-group">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
@@ -23,7 +29,7 @@
   </div> 
   
   <br>
-  <h2 style="color: white; font-weight: 100; margin-top: 50px;">🧱 Backend & Architecture</h2>
+  <h3 style="color: white; font-weight: 100; margin-top: 50px;">🧱 Backend & Architecture</h3>
   <div class="badge-group">
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#">
@@ -34,7 +40,7 @@
   </div>
   
   <br>
-  <h2 style="color: white; font-weight: 100; margin-top: 50px;">🗄️ Databases</h2>
+  <h3 style="color: white; font-weight: 100; margin-top: 50px;">🗄️ Databases</h3>
   <div class="badge-group">
     <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -45,7 +51,7 @@
   </div>
   <br>
   
-  <h2 style="color: white; font-weight: 100; margin-top: 50px;">🖥️ Systems & Infrastructure</h2>
+  <h3 style="color: white; font-weight: 100; margin-top: 50px;">🖥️ Systems & Infrastructure</h3>
   <div class="badge-group">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
@@ -57,7 +63,7 @@
   </div>
   <br>
 
-  <h2 style="color: white; font-weight: 100; margin-top: 50px;">🧰 Other Technologies & Tools</h2>
+  <h3 style="color: white; font-weight: 100; margin-top: 50px;">🧰 Other Technologies & Tools</h3>
   <div class="badge-group">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -80,70 +86,7 @@
   </div>
 </div>
 
-
-<!-- Badges -->
-
-### 🌐 Desarrollo Web  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-<br>
-
-### 🧱 Backend & Arquitectura  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
-
-<br>
-
-### 🗄️ Bases de Datos  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=php&logoColor=white)
-![SAP PowerDesigner](https://img.shields.io/badge/SAP_PowerDesigner-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-
-<br>
-
-### 🧪 Testing & QA  
-![Zephyr](https://img.shields.io/badge/Zephyr-0099CC?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
-![Gherkin](https://img.shields.io/badge/Gherkin-5CDB95?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white)
-
-<br>
-
-### 🖥️ Sistemas & Infraestructura  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=windows&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-<br>
-
-### 🧰 Otras Tecnologías y Entornos  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![StarUML](https://img.shields.io/badge/StarUML-FF2D55?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
-![Modelio](https://img.shields.io/badge/Modelio-FF9900?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
-![Bizagi](https://img.shields.io/badge/Bizagi-00B140?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![InfoStat](https://img.shields.io/badge/InfoStat-003366?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
-
-
-
+<br><br>
 
 <!-- Tarjetas -->
 
