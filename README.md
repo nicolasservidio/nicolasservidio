@@ -72,6 +72,23 @@
   </a>
 </div>
 
+<!-- Tarjeta superior centrada -->
+<div align="center">
+  <a href="https://github.com/f-mota/Rocket">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=f-mota&repo=Rocket&theme=react" />
+  </a>
+</div>
+
+<!-- Fondo degradado con tarjetas laterales -->
+<div style="background: linear-gradient(90deg, #00f5d4, #7b2cbf, #3a0ca3); padding: 20px; border-radius: 10px; display: flex; gap: 20px; flex-wrap: wrap;">
+  <a href="https://github.com/nicolasservidio/PeluqPro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasservidio&repo=PeluqPro&theme=react" />
+  </a>
+  <a href="https://github.com/nicolasservidio/Book_Management_System-ASP.NET">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasservidio&repo=Book_Management_System-ASP.NET&theme=react" />
+  </a>
+</div>
+
 
 # Nicolás Servidio
 
