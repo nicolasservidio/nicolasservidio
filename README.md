@@ -77,6 +77,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasservidio&theme=react&hide_title=true&layout=compact&langs_count=6&hide_progress=false&card_width=410&hide=C+" />
 </div>
 
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicolasservidio&theme=react&hide_title=true&hide_rank=true&show_icons=false&include_all_commits=false&count_private=false&line_height=23" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasservidio&theme=react&hide_title=true&layout=compact&langs_count=6&hide_progress=false&card_width=400&hide=C+" width="400" />
+</div>
+
 # Nicolás Servidio
 
 ## Introduction
