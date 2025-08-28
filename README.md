@@ -45,6 +45,8 @@
 
 <br><br>
 
+### Projects
+
 <!-- Tarjeta superior centrada -->
 <div align="center">
   <a href="https://github.com/f-mota/Rocket">
