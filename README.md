@@ -27,8 +27,9 @@
   </div>
 
   <div class="badge-row">
-    <img src="https://komarev.com/ghpvc/?username=NicolasServidio&label=Profile%20views&color=00ffe7&style=for-the-badge" />
-    <img src="https://img.shields.io/github/commit-activity/y/NicolasServidio/NOMBRE_DEL_REPOSITORIO?style=for-the-badge&color=00ffe7" />
+    ![Profile Views](https://komarev.com/ghpvc/?username=nicolasservidio&label=Profile%20views&color=00ffe7&style=for-the-badge)
+    <img src="https://komarev.com/ghpvc/?username=nicolasservidio&label=Profile%20views&color=00ffe7&style=for-the-badge" />
+    <img src="https://img.shields.io/github/commit-activity/y/nicolasservidio/Rocket?style=for-the-badge&color=00ffe7" />
     <img src="https://img.shields.io/github/last-commit/NicolasServidio/NOMBRE_DEL_REPOSITORIO?style=for-the-badge&color=00ffe7" />
   </div>
 
