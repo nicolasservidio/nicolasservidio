@@ -63,30 +63,7 @@
   </div>
   <br>
 
-  <h3 style="color: white; font-weight: 100; margin-top: 50px;">🧰 Other Technologies & Tools</h3>
-  <div class="badge-group">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse IDE">
-    <img src="https://img.shields.io/badge/Eclipse_IDE_for_Android-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse IDE for Android">
-    <img src="https://img.shields.io/badge/Android_Development_Tools_(ADT)-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Development Tools (ADT)">
-    <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence">
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
-    <img src="https://img.shields.io/badge/Zephyr-009688?style=for-the-badge&logo=testing-library&logoColor=white" alt="Zephyr Testing Badge">
-    <img src="https://img.shields.io/badge/Gherkin-43A047?style=for-the-badge&logo=testing-library&logoColor=white" alt="Gherkin Testing Badge">
-    <img src="https://img.shields.io/badge/UML-FF2D55?style=for-the-badge&logo=graphql&logoColor=white" alt="UML">
-    <img src="https://img.shields.io/badge/StarUML-FF2D55?style=for-the-badge&logo=graphql&logoColor=white" alt="StarUML">
-    <img src="https://img.shields.io/badge/Modelio-FF9900?style=for-the-badge&logo=graphql&logoColor=white" alt="Modelio">
-    <img src="https://img.shields.io/badge/Bizagi-00B140?style=for-the-badge&logo=codeforces&logoColor=white" alt="Bizagi">
-    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-    <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
-    <img src="https://img.shields.io/badge/InfoStat-003366?style=for-the-badge&logo=codeforces&logoColor=white" alt="InfoStat">
-  </div>
-</div>
-
-<br><br>
+<br><br><br>
 
 <!-- Tarjetas -->
 
