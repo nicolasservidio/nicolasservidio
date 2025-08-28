@@ -48,6 +48,17 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasservidio&layout=compact&theme=radical&hide_border=true&hide=C+)
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=nicolasservidio&show_icons=true&theme=dark&hide_border=true&hide_title=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasservidio&layout=compact&theme=dark&hide_border=true&hide=C+" />
+    </td>
+  </tr>
+</table>
+
 # Nicolás Servidio
 
 ## Introduction
