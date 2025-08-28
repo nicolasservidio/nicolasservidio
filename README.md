@@ -43,6 +43,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasservidio&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=410&hide=C+" />
 </div>
 
+<div align="center">
+  <a href="https://github.com/nicolasservidio/Rocket">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=f-mota&repo=Rocket&theme=react" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/nicolasservidio/PeluqPro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasservidio&repo=PeluqPro&theme=react" />
+  </a> <br><br>
+  <a href="https://github.com/nicolasservidio/Book-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasservidio&repo=Book_Management_System-ASP.NET&theme=react" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- Espacio reservado para el cuarto proyecto -->
+</div>
+
 
 # Nicolás Servidio
 
