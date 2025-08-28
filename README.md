@@ -11,7 +11,7 @@
 
 <br><br>
 
-![Preview](./preview.svg)
+[![Preview](./preview.svg)](https://nicolasservidio.github.io/)
 
 <br><br>
 
