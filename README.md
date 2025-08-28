@@ -44,35 +44,31 @@
 </div>
 
 <div style="background: linear-gradient(90deg, #00f5d4, #7b2cbf, #3a0ca3); padding: 20px; border-radius: 10px;">
-  <a href="https://github.com/nicolasservidio/Rocket">
+  <a href="https://github.com/f-mota/Rocket">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=f-mota&repo=Rocket&theme=react" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/nicolasservidio/PeluqPro">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasservidio&repo=PeluqPro&theme=react" />
   </a> <br><br>
-  <a href="https://github.com/nicolasservidio/Book-Management-System">
+  <a href="https://github.com/nicolasservidio/Book_Management_System-ASP.NET">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasservidio&repo=Book_Management_System-ASP.NET&theme=react" />
   </a>
   &nbsp;&nbsp;
   <!-- Espacio reservado para el cuarto proyecto -->
 </div>
 
-<div style="background: linear-gradient(90deg, #00f5d4, #7b2cbf, #3a0ca3); padding: 20px; border-radius: 10px;">
-  <a href="https://github.com/nicolasservidio/Rocket">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasservidio&repo=Rocket&theme=react" />
+<div align="center">
+  <a href="https://github.com/f-mota/Rocket">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=f-mota&repo=Rocket&theme=react" />
   </a>
+</div>
+<div style="background: linear-gradient(90deg, #00f5d4, #7b2cbf, #3a0ca3); padding: 20px; border-radius: 10px;">
   <a href="https://github.com/nicolasservidio/PeluqPro">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasservidio&repo=PeluqPro&theme=react" />
-  </a>
-  
-  <br><br>
-  
-  <a href="https://github.com/nicolasservidio/Book-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasservidio&repo=Book-Management-System&theme=react" />
-  </a>
-  <a href="#">
-    <!-- Espacio reservado para el cuarto proyecto -->
+  </a> <br><br>
+  <a href="https://github.com/nicolasservidio/Book_Management_System-ASP.NET">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasservidio&repo=Book_Management_System-ASP.NET&theme=react" />
   </a>
 </div>
 
