@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="2350">
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="750">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
 
@@ -153,131 +153,9 @@
                 ↳ aesthetic integrity: ✅<br></br><br></br>
                 Welcome to Nicolás Servidio's operational layer 😜
               </div>
-
-              <div class="badges">
-                <!-- Profile Views -->
-                <img src="https://komarev.com/ghpvc/?username=nicolasservidio&amp;label=Profile%20views&amp;color=e64105&amp;style=for-the-badge" />
-                <!-- Commit Activity --> 
-                <img src="https://img.shields.io/github/commit-activity/y/f-mota/Rocket?style=for-the-badge&amp;color=e64105" />
-                <!-- Last Commit -->
-                <img src="https://img.shields.io/github/last-commit/f-mota/Rocket?style=for-the-badge&amp;color=e64105" />
-                <!-- Lenguajes usados -->
-                <img src="https://img.shields.io/badge/Languages-Multi--Stack-orange?style=for-the-badge&amp;color=e64105" />
-              </div>
             </div>
 
           </div>
-
-          <div align="center">
-            <h2 style="color: white; font-weight: 100; margin-top: 80px;">🌐 Web Development</h2>
-            <div class="badge-group">
-              <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
-              <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS3" />
-              <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap" />
-              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
-              <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&amp;logo=.net&amp;logoColor=white" alt="ASP.NET" />
-              <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma" />
-            </div>
-
-            <h2 style="color: white; font-weight: 100; margin-top: 50px;">🧱 Backend &amp; Architecture</h2>
-            <div class="badge-group">
-              <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" alt=".NET" />
-              <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" alt="C#" />
-              <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
-              <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP" />
-              <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
-              <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&amp;logo=xml&amp;logoColor=white" alt="XML" />
-            </div>
-
-            <h2 style="color: white; font-weight: 100; margin-top: 50px;">🗄️ Databases</h2>
-            <div class="badge-group">
-              <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="SQL" />
-              <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
-              <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="Microsoft SQL Server" />
-              <img src="https://img.shields.io/badge/SQL_Server_Management_Studio-CC2927?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="SQL Server Management Studio" />
-              <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="phpMyAdmin" />
-              <img src="https://img.shields.io/badge/SAP_PowerDesigner-0FAAFF?style=for-the-badge&amp;logo=sap&amp;logoColor=white" alt="SAP PowerDesigner" />
-            </div>
-
-            <h2 style="color: white; font-weight: 100; margin-top: 50px;">🖥️ Systems &amp; Infrastructure</h2>
-            <div class="badge-group">
-              <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
-              <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="Ubuntu" />
-              <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&amp;logo=debian&amp;logoColor=white" alt="Debian" />
-              <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Windows Server" />
-              <img src="https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Active Directory" />
-              <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Bash" />
-              <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&amp;logo=arduino&amp;logoColor=white" alt="Arduino" />
-            </div>
-
-            <h2 style="color: white; font-weight: 100; margin-top: 50px;">🧰 Other Technologies &amp; Tools</h2>
-            <div class="badge-group">
-              <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
-              <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
-              <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&amp;logo=visualstudio&amp;logoColor=white" alt="Visual Studio" />
-              <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" alt="VS Code" />
-              <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&amp;logo=eclipseide&amp;logoColor=white" alt="Eclipse IDE" />
-              <img src="https://img.shields.io/badge/Eclipse_IDE_for_Android-2C2255?style=for-the-badge&amp;logo=eclipseide&amp;logoColor=white" alt="Eclipse IDE for Android" />
-              <img src="https://img.shields.io/badge/Android_Development_Tools_(ADT)-3DDC84?style=for-the-badge&amp;logo=android&amp;logoColor=white" alt="Android Development Tools (ADT)" />
-              <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&amp;logo=confluence&amp;logoColor=white" alt="Confluence" />
-              <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&amp;logo=jira&amp;logoColor=white" alt="Jira" />
-              <img src="https://img.shields.io/badge/Zephyr-009688?style=for-the-badge&amp;logo=testing-library&amp;logoColor=white" alt="Zephyr Testing Badge" />
-              <img src="https://img.shields.io/badge/Gherkin-43A047?style=for-the-badge&amp;logo=testing-library&amp;logoColor=white" alt="Gherkin Testing Badge" />
-              <img src="https://img.shields.io/badge/UML-FF2D55?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" alt="UML" />
-              <img src="https://img.shields.io/badge/StarUML-FF2D55?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" alt="StarUML" />
-              <img src="https://img.shields.io/badge/Modelio-FF9900?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" alt="Modelio" />
-              <img src="https://img.shields.io/badge/Bizagi-00B140?style=for-the-badge&amp;logo=codeforces&amp;logoColor=white" alt="Bizagi" />
-              <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" alt="Markdown" />
-              <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&amp;logo=latex&amp;logoColor=white" alt="LaTeX" />
-              <img src="https://img.shields.io/badge/InfoStat-003366?style=for-the-badge&amp;logo=codeforces&amp;logoColor=white" alt="InfoStat" />
-            </div>
-          </div>
-          
-
-          <style>
-            .projects {
-              display: flex;
-              flex-direction: column;
-              align-items: center;
-              gap: 20px;
-            }
-
-            .project-row {
-              display: flex;
-              justify-content: center;
-              gap: 20px;
-            }
-          </style>
-
-          <div align="center">
-            <h2 style="margin-top: 80px; color: white; font-weight: 120;">GitHub Stats</h2>
-
-            <div class="projects">
-              <div class="stats centered">
-                <img src="https://github-readme-stats.vercel.app/api?username=nicolasservidio&amp;theme=react&amp;hide_title=false&amp;hide_rank=false&amp;show_icons=false&amp;include_all_commits=true&amp;count_private=true&amp;line_height=23" width="410" />
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasservidio&amp;theme=react&amp;hide_title=false&amp;layout=compact&amp;langs_count=6&amp;hide_progress=false&amp;card_width=410&amp;hide=C+" />
-              </div>
-            </div>
-
-            <div class="projects">        
-              <div class="project-row">
-                <a href="https://github.com/f-mota/Rocket">
-                  <img src="https://github-readme-stats.vercel.app/api/pin/?username=f-mota&amp;repo=Rocket&amp;theme=react" />
-                </a>
-              </div>
-
-              <div class="project-row">
-                <a href="https://github.com/nicolasservidio/PeluqPro">
-                  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasservidio&amp;repo=PeluqPro&amp;theme=react" />
-                </a>
-                <a href="https://github.com/nicolasservidio/Book_Management_System-ASP.NET">
-                  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasservidio&amp;repo=Book_Management_System-ASP.NET&amp;theme=react" />
-                </a>
-              </div>
-              
-            </div>      
-          </div>
-
         </div>
       </body>
 
