@@ -1,10 +1,6 @@
 ![mybanner](https://github.com/user-attachments/assets/f811b051-9444-4364-a82f-9df5cd2ee5e4)
 
-<br><br>
-
-Hello world! I'm Nicolás, an Information Systems Developer with a strong foundation in web & desktop development, software engineering, and Agile practices. Final-semester Computer Systems student passionate about building scalable, user-focused applications using Python, C# (Microsoft .NET, ASP.NET), PHP & Java. I combine technical expertise with analytical rigor and a commitment to continuous learning, driven by the intersection of technology, innovation and problem-solving.
-
-<br> <br>
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nicolasservidio&label=Profile%20views&color=e64105&style=for-the-badge" />
@@ -14,6 +10,10 @@ Hello world! I'm Nicolás, an Information Systems Developer with a strong founda
 </div>
 
 <br><br>
+
+Hello world! I'm Nicolás, an Information Systems Developer with a strong foundation in web & desktop development, software engineering, and Agile practices. Final-semester Computer Systems student passionate about building scalable, user-focused applications using Python, C# (Microsoft .NET, ASP.NET), PHP & Java. I combine technical expertise with analytical rigor and a commitment to continuous learning, driven by the intersection of technology, innovation and problem-solving.
+
+<br> <br>
 
 [![Preview](./preview.svg)](https://nicolasservidio.github.io/)
 
