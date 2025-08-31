@@ -169,8 +169,8 @@ First and foremost, I'm deeply passionate about hard work, continuous learning, 
 
 #### 💻 Software Development & Architecture
 
-- Full-Stack Development, Software Development, Web Development
-- Information Systems Analysis, Design, Implementation & Deployment
+- Information Systems Development, Software Development, Web Development
+- Computer Systems Analysis, Design, Implementation & Deployment
 - Data Structures and Algorithms
 - Software Architecture, Multitier Architecture, Model–view–controller (MVC) Architecture
 - Software Design Patterns, Programming Techniques, Programming Laboratory
