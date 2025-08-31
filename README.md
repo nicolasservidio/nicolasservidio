@@ -1,6 +1,10 @@
 ![mybanner](https://github.com/user-attachments/assets/f811b051-9444-4364-a82f-9df5cd2ee5e4)
 
-<br>
+<br><br>
+
+Hello world! I'm Nicolás, an Information Systems Developer with a strong foundation in web & desktop development, software engineering, and Agile practices. Final-semester Computer Systems student passionate about building scalable, user-focused applications using Python, C# (Microsoft .NET, ASP.NET), PHP & Java. I combine technical expertise with analytical rigor and a commitment to continuous learning, driven by the intersection of technology, innovation and problem-solving.
+
+<br> <br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nicolasservidio&label=Profile%20views&color=e64105&style=for-the-badge" />
@@ -102,17 +106,17 @@
 
 ## Who am I
 
-I am a software Developer with a strong foundation in full-stack web development, software engineering, and Agile practices. Final-semester Computer Systems student passionate about building scalable, user-focused applications using PHP, Java, and the Microsoft .NET ecosystem. I combine technical expertise with analytical rigor and a commitment to continuous learning, driven by the intersection of technology and problem-solving.
+I am an Information Systems Developer with a strong foundation in web & desktop development, software engineering, and Agile practices. Final-semester Computer Systems student passionate about building scalable, user-focused applications using Python, the Microsoft .NET ecosystem (C#), PHP, Java. I combine technical expertise with analytical rigor and a commitment to continuous learning, driven by the intersection of technology and problem-solving.
 
-My expertise spans analysis, design, and development of computer and information systems, combining strategic thinking with technical execution. I am proficient in PHP, Java, C#, Python, other programming languages and modern web technologies - with a growing focus in backend engineering and robust application development using PHP, Java, and the Microsoft .NET ecosystem.
+My expertise spans analysis, design, and development of computer and information systems, combining strategic thinking with technical execution. I am proficient in PHP, Java, C#, Python, other programming languages and modern web technologies - with a growing focus in full-stack engineering and robust application development using PHP, Java, Python, and C# (Microsoft .NET, ASP.NET).
 
-My academic training has equipped me with solid foundations and skills in Software & Web Development, Databases, Computer Networks and Operating Systems, addressing areas ranging from full-stack development and software architecture and design patterns to systems modeling and database management, while focusing on the principles of software engineering, functional analysis, business analysis and Agile methodologies.
+My academic training has equipped me with solid foundations and skills in Software & Web Development, Databases, Infrastructure, Computer Networks and Operating Systems, Network Configuration, Windows Server, GNU/Linux, Applied Math, Statistics and so on, addressing areas ranging from full-stack development, software architecture and design patterns to systems modeling and database management, while focusing on the principles of software engineering, functional analysis, business analysis and Agile methodologies.
 
-**Additional Interests & Cross-Disciplinary Background:** I am an enthusiast of operating systems, Arduino and IoT, FinTech and finance in general, and have a formal background in biological sciences (molecular biology, genetics, cell biology and so on), field in which my main focus was on health, BioMed and BioTech.
+**Additional Interests & Cross-Disciplinary Background:** I am an enthusiast of operating systems, Arduino and IoT, FinTech and finance in general, and have a formal background in biological sciences (molecular biology, genetics, cell biology and so on), field in which I had a main focus on health, BioMed and BioTech.
 
-This breadth of interests, academic training and professional development across diverse domains provides a distinct and highly valuable advantage, enabling me to integrate cross-disciplinary knowledge into software engineering with a refined perspective on systems, data, and innovation. I want to bring a unique perspective shaped by interdisciplinary exposure. This cross-domain experience strengthens my analytical rigor and ability to innovate at the intersection of informatics, data, and real-world challenges.
+This breadth of interests, academic training and professional development across diverse domains provides a distinct and highly valuable advantage, enabling me to integrate cross-disciplinary knowledge into software engineering with a refined perspective on systems, data, technology and innovation. I want to bring a unique perspective shaped by interdisciplinary exposure. This cross-domain experience strengthens my analytical rigor and ability to innovate at the intersection of informatics, data, and real-world challenges.
 
-First and foremost, I am deeply passionate about hard work, continuous learning, analytical thinking, and driven by entrepreneurial ambition. Actively seeking opportunities to grow as a software developer in dynamic, impact-driven environments.
+First and foremost, I'm deeply passionate about hard work, continuous learning, analytical thinking, and driven by entrepreneurial ambition. Actively seeking opportunities to grow as a software developer in dynamic, impact-driven environments.
 
 ---
 
