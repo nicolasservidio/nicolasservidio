@@ -11,7 +11,11 @@
 
 <br><br>
 
-Hello world! I'm Nicolás, an Information Systems developer with a strong foundation in web & desktop development, software engineering principles, and Agile practices. I'm a final-semester Computer Systems student passionate about building scalable, user-focused applications using Python, C# (Microsoft .NET, ASP.NET), PHP or Java. I combine technical expertise with a commitment to continuous learning, driven by the intersection of technology, innovation and problem-solving. This is the most important thing you should know about me: I am obsessed with computers, programming, data engineering, databases, compilers, hardware, math, big data, data science, networks, operating systems, and the Internet as a whole - this isn't just a job for me...
+Hello world! I'm Nicolás, an Information Systems developer with a strong foundation in web & desktop development, software engineering principles, and Agile practices. I'm a final-semester Computer Systems student passionate about building scalable, user-focused applications using Python, C# (Microsoft .NET, ASP.NET), PHP or Java. I combine technical expertise with a commitment to continuous learning, driven by the intersection of technology, innovation and problem-solving. 
+
+<br> 
+
+This is the most important thing you should know about me: I am obsessed with computers, programming, data engineering, databases, compilers, hardware, math, big data, data science, networks, operating systems, and the Internet as a whole - this isn't just a job for me...
 
 <br> <br>
 
